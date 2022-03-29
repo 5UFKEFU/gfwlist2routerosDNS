@@ -1,0 +1,2 @@
+# gfwlist2routerosDNS
+这是一个把gfwlist的所有域名添加进routerDNS的项目，纯手工
